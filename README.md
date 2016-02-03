@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Foundation libsass template
 
 This is a template to start your own project that uses Grunt and libsass!
@@ -27,3 +28,7 @@ And you're set!
 
   * `scss/_settings.scss`: Foundation configuration settings go in here
   * `scss/app.scss`: Application styles go here
+=======
+# foundography
+Simple RWD landing page
+>>>>>>> ff845fea74be1ff70ed4da5e62429dce32c7ed2c
